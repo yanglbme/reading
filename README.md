@@ -10,6 +10,7 @@
 ### Tech
 | # | Book | Score |
 |---|---|---|
+| 1 | [《Redis 设计与实现》](docs/tech/2019-03-17.md) | ⭐⭐⭐⭐⭐ |
 
 ### Other
 | # | Book | Score |
