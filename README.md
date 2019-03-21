@@ -10,14 +10,15 @@ The project records the notes for my weekly reading, including tech and other.
 |---|---|
 
 ### Tech
-| # | Title | Author(s) | Publication Year| Rating | Link |
+| # | Title | Author(s) | Publication Year| Rating | Access Code |
 |---|---|---|---|---|---|
-| 1 | [Redis 设计与实现](docs/tech/2019-03-17.md) | [黄健宏](https://github.com/huangz1990) | 2014 | ⭐⭐⭐⭐⭐ | [PDF](books/Redis设计与实现(第二版).pdf) |
+| 1 | [Redis 设计与实现](docs/tech/2019-03-17.md) | [黄健宏](https://github.com/huangz1990) | 2014 | ⭐⭐⭐⭐⭐ | [q2ky](https://pan.baidu.com/s/16LY5H6XQxcjfOdCz73Z6tA) |
+| 2 | Effective Java 中文版原书第 3 版 | <div style="text-align:right;">[美]Joshua Bloch 著<br>俞黎敏 译</div> | 2019 | ⭐⭐⭐⭐⭐ | [w2f2](https://pan.baidu.com/s/1ykZmLC6E4RzbfE6Dyzz4PQ) |
 
 ### Other
-| # | Title | Author(s) | Publication Year | Rating | Link |
+| # | Title | Author(s) | Publication Year | Rating | Access Code |
 |---|---|---|---|---|---|
-| 1 | [软技能：代码之外的生存指南](docs/other/2019-03-10.md) | [[美]John Z. Sonmez](https://simpleprogrammer.com/about-simple-programmer/) | 2016 | ⭐⭐⭐⭐⭐ | [PDF](books/软技能-代码之外的生存指南.pdf) |
+| 1 | [软技能：代码之外的生存指南](docs/other/2019-03-10.md) | [[美]John Z. Sonmez](https://simpleprogrammer.com/about-simple-programmer/) | 2016 | ⭐⭐⭐⭐⭐ | [1l7b](https://pan.baidu.com/s/1qTozs1_JLrbnD9oEJKuyPw) |
 | 2 | [自学是门手艺](docs/other/2019-03-24.md) | [李笑来](https://github.com/xiaolai) | 2019 | ⭐⭐⭐⭐⭐ | [GitHub](https://github.com/selfteaching/the-craft-of-selfteaching) |
 
 ## License
