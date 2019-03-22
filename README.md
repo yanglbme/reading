@@ -1,6 +1,5 @@
 # Weekly Reading
-[![license](https://badgen.net/badge/license/CC-BY-SA-4.0/green)](https://github.com/yanglbme/weekly-reading/blob/master/LICENSE)
-[![since](https://badgen.net/badge/since/2019.03.10/blue)](https://github.com/yanglbme/weekly-reading)
+[![license](https://badgen.net/badge/license/Attribution%20Share%20Alike%204.0%20International/green)](https://github.com/yanglbme/weekly-reading/blob/master/LICENSE)
 [![status](https://badgen.net/badge/status/updated-weekly/orange)](https://github.com/yanglbme/weekly-reading)
 
 The project records the notes for my weekly reading, including tech and other.
@@ -9,11 +8,13 @@ The project records the notes for my weekly reading, including tech and other.
 | [Tech](#Tech) | [Other](#Other) |
 |---|---|
 
+Note: All e-books are for learning and exchange purposes only, and do not use them for commercial.
+
 ### Tech
 | # | Title | Author(s) | Publication Year| Rating | Access Code |
 |---|---|---|---|---|---|
 | 1 | [Redis 设计与实现](docs/tech/2019-03-17.md) | [黄健宏](https://github.com/huangz1990) | 2014 | ⭐⭐⭐⭐⭐ | [q2ky](https://pan.baidu.com/s/16LY5H6XQxcjfOdCz73Z6tA) |
-| 2 | Effective Java 中文版原书第 3 版 | <div style="text-align:right;">[美]Joshua Bloch 著<br>俞黎敏 译</div> | 2019 | ⭐⭐⭐⭐⭐ | [w2f2](https://pan.baidu.com/s/1ykZmLC6E4RzbfE6Dyzz4PQ) |
+| 2 | Effective Java 中文版原书第 3 版 | [美]Joshua Bloch 著<br>俞黎敏 译 | 2019 | ⭐⭐⭐⭐⭐ | [w2f2](https://pan.baidu.com/s/1ykZmLC6E4RzbfE6Dyzz4PQ) |
 
 ### Other
 | # | Title | Author(s) | Publication Year | Rating | Access Code |
