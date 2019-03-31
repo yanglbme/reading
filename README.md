@@ -14,7 +14,7 @@ Note: All e-books are for learning and exchange purposes only, and do not use th
 | # | Title | Author(s) | Rating | Access Code |
 |---|---|---|---|---|
 | 1 | [Redis 设计与实现[2014]](docs/tech/2019-03-17.md) | [黄健宏](https://github.com/huangz1990) | ⭐⭐⭐⭐⭐ | [q2ky](https://pan.baidu.com/s/16LY5H6XQxcjfOdCz73Z6tA) |
-| 2 | [企业 IT 架构转型之道：阿里巴巴中台战略思想与架构实战[2017]](docs/tech/2019-03-31.md) | 钟华 | ⭐⭐⭐⭐ | [euzo](https://pan.baidu.com/s/1xfyLZAg1-uwzTk0WbXMlJA) |
+| 2 | [企业 IT 架构转型之道：阿里巴巴中台战略思想与架构实战[2017]](docs/tech/2019-03-31.md) | 钟华（花名：古谦） | ⭐⭐⭐⭐ | [euzo](https://pan.baidu.com/s/1xfyLZAg1-uwzTk0WbXMlJA) |
 | 3 | Effective Java 中文版原书第 3 版[2019] | [美]Joshua Bloch 著<br>俞黎敏 译 | ⭐⭐⭐⭐⭐ | [w2f2](https://pan.baidu.com/s/1ykZmLC6E4RzbfE6Dyzz4PQ) |
 
 ### Other
