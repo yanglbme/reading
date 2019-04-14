@@ -21,6 +21,7 @@ The project records the notes for my weekly reading, including tech and other.
 |---|---|---|---|
 | 1 | [软技能：代码之外的生存指南[2016]](docs/other/2019-03-10.md) | [[美]John Z. Sonmez](https://simpleprogrammer.com/about-simple-programmer/)| ⭐⭐⭐⭐⭐ |
 | 2 | [自学是门手艺[2019]](docs/other/2019-03-24.md) | [李笑来](https://github.com/xiaolai) | ⭐⭐⭐⭐⭐ |
+| 3 | [枕边算法书[2018]](docs/other/2019-04-14.md) | [韩] 林栢濬 著<br>崔盛一 译| ⭐⭐⭐⭐ |
 
 ## License
 [Creative Commons Attribution Share Alike 4.0 International](LICENSE)
