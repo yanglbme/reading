@@ -24,6 +24,7 @@ The project records the notes for my weekly reading, including tech and other.
 | 3 | [枕边算法书[2018]](docs/other/2019-04-14.md) | [韩]林栢濬 著<br>崔盛一 译 | ⭐⭐⭐⭐ |
 | 4 | [房思琪的初恋乐园[2017]](docs/other/2019-04-21.md) | [台]林奕含 | ⭐⭐⭐⭐⭐ |
 | 5 | [人性的弱点[2006]](docs/other/2019-04-28.md) | [美]Dale Carnegie | ⭐⭐⭐⭐⭐ |
+| 6 | [我的生活不可能那么坏[2018]](docs/other/2019-05-05.md) | [日]河尻圭吾 | ⭐⭐⭐⭐⭐ |
 
 ## License
 [Creative Commons Attribution Share Alike 4.0 International](LICENSE)
