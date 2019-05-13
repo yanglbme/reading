@@ -5,7 +5,7 @@
 The project records the notes for my weekly reading, including tech and other.
 
 ## Content
-| [Tech](#Tech) | [Other](#Other) |
+| [Tech](#tech) | [Other](#other) |
 |---|---|
 
 ### Tech
