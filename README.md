@@ -25,6 +25,8 @@ The project records the notes for my weekly reading, including tech and other.
 | 4 | [房思琪的初恋乐园[2017]](docs/other/2019-04-21.md) | [台]林奕含 | ⭐⭐⭐⭐⭐ |
 | 5 | [人性的弱点[2006]](docs/other/2019-04-28.md) | [美]Dale Carnegie | ⭐⭐⭐⭐⭐ |
 | 6 | [我的生活不可能那么坏[2018]](docs/other/2019-05-05.md) | [日]河尻圭吾 | ⭐⭐⭐⭐⭐ |
+| 7 | [坚持，一种可以养成的习惯[2016]](docs/other/2019-05-12.md) | [日]古川武士 | ⭐⭐⭐⭐ |
+
 
 ## License
 [Creative Commons Attribution Share Alike 4.0 International](LICENSE)
