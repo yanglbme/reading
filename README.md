@@ -26,6 +26,8 @@ The project records the notes for my weekly reading, including tech and other.
 | 5 | [人性的弱点[2006]](docs/other/2019-04-28.md) | [美]Dale Carnegie | ⭐⭐⭐⭐⭐ |
 | 6 | [我的生活不可能那么坏[2018]](docs/other/2019-05-05.md) | [日]河尻圭吾 | ⭐⭐⭐⭐⭐ |
 | 7 | [坚持，一种可以养成的习惯[2016]](docs/other/2019-05-12.md) | [日]古川武士 | ⭐⭐⭐⭐ |
+| 8 | [如何阅读一本书[2014]](docs/other/2019-05-26.md) | [美] 莫提默·J 艾德勒、查尔斯·范多伦 | ⭐⭐⭐⭐ |
+
 
 
 ## License
