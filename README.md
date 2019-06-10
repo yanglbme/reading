@@ -29,7 +29,7 @@ The project records the notes for my weekly reading, including tech and other.
 | 8 | [如何阅读一本书[2014]](docs/other/2019-05-26.md) | [美] 莫提默·J 艾德勒、查尔斯·范多伦 | ⭐⭐⭐⭐ |
 | 9 | [黑客与画家：硅谷创业之父Paul Graham文集[2011]](docs/other/2019-05-27.md) | [美] Paul Graham 著<br>阮一峰 译 | ⭐⭐⭐⭐⭐ |
 | 10 | [未来世界的幸存者[2018]](docs/other/2019-06-01.md) | 阮一峰 | ⭐⭐⭐⭐⭐ |
-| 11 | [韭菜的自我修养[2018]](docs/other/2019-06-09.md) | 李笑来 | ⭐⭐⭐⭐⭐ |
+| 11 | [韭菜的自我修养[2018]](docs/other/2019-06-09.md) | 李笑来 | ⭐⭐⭐⭐ |
 
 
 ## License
