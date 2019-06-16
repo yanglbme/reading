@@ -30,6 +30,7 @@ The project records the notes for my weekly reading, including tech and other.
 | 9 | [黑客与画家：硅谷创业之父Paul Graham文集[2011]](docs/other/2019-05-27.md) | [美] Paul Graham 著、[阮一峰](https://github.com/ruanyf) 译 | ⭐⭐⭐⭐⭐ |
 | 10 | [未来世界的幸存者[2018]](docs/other/2019-06-01.md) | [阮一峰](https://github.com/ruanyf) | ⭐⭐⭐⭐⭐ |
 | 11 | [韭菜的自我修养[2018]](docs/other/2019-06-09.md) | [李笑来](https://github.com/xiaolai) | ⭐⭐⭐⭐ |
+| 11 | [稀缺：我们是如何陷入贫穷与忙碌的[2014]](docs/other/2019-06-16.md) | [美] Sendhil Mullainathan/Eldar Shafir 著、魏薇/龙志勇 译 | ⭐⭐⭐⭐⭐ |
 
 
 ## License
