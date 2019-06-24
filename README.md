@@ -1,6 +1,6 @@
 # Weekly Reading
-[![license](https://badgen.net/badge/license/Attribution%20Share%20Alike%204.0%20International/green)](https://github.com/yanglbme/weekly-reading/blob/master/LICENSE)
-[![status](https://badgen.net/badge/status/updated-weekly/orange)](https://github.com/yanglbme/weekly-reading)
+[![license](https://badgen.net/github/license/yanglbme/weekly-reading?color=green)](https://github.com/yanglbme/weekly-reading/blob/master/LICENSE)
+[![status](https://badgen.net/badge/status/updated-weekly/green)](https://github.com/yanglbme/weekly-reading)
 
 The project records the notes for my weekly reading, including tech and other.
 
@@ -14,7 +14,6 @@ The project records the notes for my weekly reading, including tech and other.
 | 1 | [Redis 设计与实现[2014]](docs/tech/2019-03-17.md) | [黄健宏](https://github.com/huangz1990) | ⭐⭐⭐⭐⭐ |
 | 2 | [企业 IT 架构转型之道：阿里巴巴中台战略思想与架构实战[2017]](docs/tech/2019-03-31.md) | 钟华(花名:古谦) | ⭐⭐⭐⭐ |
 | 3 | [代码整洁之道[2010]](docs/tech/2019-04-07.md) | [美]Robert C.Martin | ⭐⭐⭐⭐⭐ |
-<!-- | 4 | Effective Java 中文版原书第 3 版[2019] | [美]Joshua Bloch 著、俞黎敏 译 | ⭐⭐⭐⭐⭐ | -->
 
 ### Other
 | # | Title | Author(s) | Rating |
@@ -31,7 +30,8 @@ The project records the notes for my weekly reading, including tech and other.
 | 10 | [未来世界的幸存者[2018]](docs/other/2019-06-01.md) | [阮一峰](https://github.com/ruanyf) | ⭐⭐⭐⭐⭐ |
 | 11 | [韭菜的自我修养[2018]](docs/other/2019-06-09.md) | [李笑来](https://github.com/xiaolai) | ⭐⭐⭐⭐ |
 | 12 | [稀缺：我们是如何陷入贫穷与忙碌的[2014]](docs/other/2019-06-16.md) | [美] 塞德希尔· 穆来纳森 & 埃尔德·沙菲尔 著、魏薇 & 龙志勇 译 | ⭐⭐⭐⭐⭐ |
+| 13 | [认知尺度[2019]](docs/other/2019-06-24.md) | 魏坤琳 等 | ⭐⭐⭐⭐⭐ |
 
 
 ## License
-[Creative Commons Attribution Share Alike 4.0 International](LICENSE)
+<a rel="license" href="https://github.com/yanglbme/weekly-reading/blob/master/LICENSE"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
