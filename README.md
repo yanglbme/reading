@@ -8,14 +8,14 @@ The project records the notes for my weekly reading, including tech and other.
 | [Tech](#tech) | [Other](#other) |
 |---|---|
 
-### Tech
+### [Tech](docs/tech/README.md)
 | # | Title | Author(s) | Rating |
 |---|---|---|---|
 | 1 | [Redis 设计与实现[2014]](docs/tech/2019-03-17.md) | [黄健宏](https://github.com/huangz1990) | ⭐⭐⭐⭐⭐ |
 | 2 | [企业 IT 架构转型之道：阿里巴巴中台战略思想与架构实战[2017]](docs/tech/2019-03-31.md) | 钟华(花名:古谦) | ⭐⭐⭐⭐ |
 | 3 | [代码整洁之道[2010]](docs/tech/2019-04-07.md) | [美]Robert C.Martin | ⭐⭐⭐⭐⭐ |
 
-### Other
+### [Other](docs/other/README.md)
 | # | Title | Author(s) | Rating |
 |---|---|---|---|
 | 1 | [软技能：代码之外的生存指南[2016]](docs/other/2019-03-10.md) | [[美]John Z. Sonmez](https://simpleprogrammer.com/about-simple-programmer/)| ⭐⭐⭐⭐⭐ |
