@@ -32,6 +32,7 @@ The project records the notes for my weekly reading, including tech and other.
 | 12 | [稀缺：我们是如何陷入贫穷与忙碌的[2014]](docs/other/2019-06-16.md) | [美] 塞德希尔· 穆来纳森 & 埃尔德·沙菲尔 著、魏薇 & 龙志勇 译 | ⭐⭐⭐⭐⭐ |
 | 13 | [认知尺度[2019]](docs/other/2019-06-24.md) | 魏坤琳 等 | ⭐⭐⭐⭐⭐ |
 | 14 | [顺势而为：雷军传[2014]](docs/other/2019-07-14.md) | 采文 | ⭐⭐⭐⭐⭐ |
+| 15 | [MacTalk 跨越边界[2015]](docs/other/2019-07-22.md) | 池建强 | ⭐⭐⭐⭐ |
 
 
 ## License
