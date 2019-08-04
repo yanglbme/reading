@@ -34,6 +34,7 @@ The project records the notes for my weekly reading, including tech and other.
 | 14 | [顺势而为：雷军传[2014]](docs/other/2019-07-14.md) | 采文 | ⭐⭐⭐⭐⭐ |
 | 15 | [MacTalk 跨越边界[2015]](docs/other/2019-07-22.md) | 池建强 | ⭐⭐⭐⭐ |
 | 16 | [马云：未来已来[2017]](docs/other/2019-07-28.md) | 阿里巴巴集团 | ⭐⭐⭐⭐⭐ |
+| 17 | [如何成为一个有趣的人[2017]](docs/other/2019-08-04.md) | 王小圈 | ⭐⭐⭐⭐⭐ |
 
 ## License
 <a rel="license" href="https://github.com/yanglbme/weekly-reading/blob/master/LICENSE"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
