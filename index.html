@@ -7,6 +7,7 @@
   <meta name="description" content="杨立滨的读书笔记">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
   <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
 </head>
@@ -51,5 +52,21 @@
   <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: 'a0a4114545ef4b887f2f',
+      clientSecret: 'a316393f3561d0c77a216418478cd3a27a897f63',
+      repo: 'weekly-reading',
+      owner: 'yanglbme',
+      admin: ['yanglbme'],
+      number: 2,
+      distractionFreeMode: true,
+      labels: ['talk'],
+      title: 'Weekly Reading',
+      perPage: 15,
+    })
+  </script>
 </body>
 </html>
