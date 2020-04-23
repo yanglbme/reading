@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: yanglbme/v2ex-action@master
-        env:
+        with:
           webhook: ${{secrets.WEBHOOK}}
-          count: 6
+          count: 10
