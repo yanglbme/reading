@@ -2,6 +2,7 @@
 
 [![license](https://badgen.net/github/license/yanglbme/weekly-reading?color=green)](https://github.com/yanglbme/weekly-reading/blob/main/LICENSE)
 [![status](https://badgen.net/badge/status/updated-weekly/green)](https://github.com/yanglbme/weekly-reading)
+![Sync](https://github.com/yanglbme/weekly-reading/workflows/Sync/badge.svg)
 
 The project records the notes for my weekly reading, including tech and other.
 
