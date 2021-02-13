@@ -1,10 +1,10 @@
-# Weekly Reading
+# Reading
 
-[![license](https://badgen.net/github/license/yanglbme/weekly-reading?color=green)](https://github.com/yanglbme/weekly-reading/blob/main/LICENSE)
-[![status](https://badgen.net/badge/status/updated-weekly/green)](https://github.com/yanglbme/weekly-reading)
-![Sync](https://github.com/yanglbme/weekly-reading/workflows/Sync/badge.svg)
+[![license](https://badgen.net/github/license/yanglbme/reading?color=green)](https://github.com/yanglbme/reading/blob/main/LICENSE)
+[![status](https://badgen.net/badge/status/updating/green)](https://github.com/yanglbme/reading)
+![Sync](https://github.com/yanglbme/reading/workflows/Sync/badge.svg)
 
-The project records the notes for my weekly reading, including tech and other.
+The project records the notes for my reading history, including tech and other.
 
 ## Content
 
@@ -43,4 +43,4 @@ The project records the notes for my weekly reading, including tech and other.
 
 ## License
 
-<a rel="license" href="https://github.com/yanglbme/weekly-reading/blob/main/LICENSE"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://github.com/yanglbme/reading/blob/main/LICENSE"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
