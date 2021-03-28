@@ -11,6 +11,7 @@ jobs:
     steps:
       - uses: bubkoo/contributors-list@v1
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
           round: true
+          repo: doocs/leetcode
           svgPath: DOOCS_LEETCODE_CONTRIBUTORS.svg
