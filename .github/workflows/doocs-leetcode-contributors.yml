@@ -1,0 +1,17 @@
+name: Contributors
+on:
+  schedule:
+    - cron: '0/10 * * * *'
+  push:
+    branches:
+      - main
+jobs:
+  contributors:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: bubkoo/contributors-list@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          repo: doocs/leetcode
+          round: true
+          svgPath: DOOCS_LEETCODE_CONTRIBUTORS.svg
