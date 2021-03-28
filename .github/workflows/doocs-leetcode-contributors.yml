@@ -12,6 +12,5 @@ jobs:
       - uses: bubkoo/contributors-list@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          repo: doocs/leetcode
           round: true
           svgPath: DOOCS_LEETCODE_CONTRIBUTORS.svg
