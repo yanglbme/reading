@@ -1,8 +1,7 @@
 # Reading
 
-[![license](https://badgen.net/github/license/yanglbme/reading?color=green)](https://github.com/yanglbme/reading/blob/main/LICENSE)
-[![status](https://badgen.net/badge/status/updating/green)](https://github.com/yanglbme/reading)
-![Sync](https://github.com/yanglbme/reading/workflows/Sync/badge.svg)
+[![license](https://img.shields.io/github/license/yanglbme/reading?color=42b883&style=flat-square)](https://github.com/yanglbme/reading/blob/main/LICENSE)
+[![actions status](https://img.shields.io/github/workflow/status/yanglbme/reading/Sync?color=42b883&label=sync&logo=github&style=flat-square)](https://github.com/yanglbme/reading/actions?query=workflow%3ASync)
 
 The project records the notes for my reading history, including tech and other.
 
