@@ -1,0 +1,16 @@
+name: CordCloud
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  checkin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: yanglbme/cordcloud-action@main
+        with:
+          username: ${{ secrets.CC_USERNAME }}
+          passwd: ${{ secrets.CC_PASSWD }}
+          host: cordcloud.site
