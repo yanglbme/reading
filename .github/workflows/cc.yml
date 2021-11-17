@@ -11,6 +11,6 @@ jobs:
     steps:
       - uses: yanglbme/cordcloud-action@main
         with:
-          username: ${{ secrets.CC_USERNAME }}
+          email: ${{ secrets.CC_EMAIL }}
           passwd: ${{ secrets.CC_PASSWD }}
           host: cordcloud.site
