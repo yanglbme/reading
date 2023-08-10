@@ -13,3 +13,4 @@ jobs:
         with:
           email: ${{ secrets.CC_EMAIL }}
           passwd: ${{ secrets.CC_PASSWD }}
+          secret: ${{ secrets.CC_SECRET }}
