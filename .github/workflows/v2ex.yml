@@ -12,4 +12,5 @@ jobs:
       - uses: yanglbme/v2ex-action@main
         with:
           webhook: ${{secrets.WEBHOOK}}
+          secret: ${{secrets.SECRET}}
           count: 10
