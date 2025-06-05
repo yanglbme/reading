@@ -1,0 +1,22 @@
+name: CordCloud
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  checkin:
+    runs-on: ubuntu-latest
+    steps:
+      - name: install chromium
+        run: |
+          sudo apt update
+          sudo apt install -y chromium
+
+      - name: add cord cloud action
+        uses: yanglbme/cordcloud-action@dev
+        with:
+          email: ${{ secrets.CC_EMAIL }}
+          passwd: ${{ secrets.CC_PASSWD }}
+          secret: ${{ secrets.CC_SECRET }}
