@@ -9,12 +9,7 @@ jobs:
   checkin:
     runs-on: ubuntu-latest
     steps:
-      - name: install chromium
-        run: |
-          sudo apt update
-          sudo apt install -y chromium
-
-      - name: add cord cloud action
+      - name: Run cord cloud action
         uses: yanglbme/cordcloud-action@dev
         with:
           email: ${{ secrets.CC_EMAIL }}
